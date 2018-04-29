@@ -1,6 +1,6 @@
-This project is the final task my group and I implemented as part of a final task we were required to finish
-in the course of "Deep ANNs with TensorFlow" at our university. It's about training an advanced ANN to colorize
-black-and-white images. 
+This project is the final task my group and I implemented as part of a final task 
+we were required to finish in the course of "Deep ANNs with TensorFlow" at our university. 
+It's about training an advanced ANN to colorize black-and-white images. 
 I did implement all the work myself including the python code, training the network using my AWS account and testing 
 the performance of it in addition to downloading and preprocessing the LSUN church-outdoor images, that I used for 
 the task, myself using my own preprocessing scripts.
